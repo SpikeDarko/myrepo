@@ -1,4 +1,7 @@
 Hello there!
+<<<<<<< HEAD
 This is another line
 This is another another line
 
+=======
+>>>>>>> parent of 30162a8 (-hellp)
